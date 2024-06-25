@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: darkred
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 0px 40px
+}
+
+h3 {
+    color: #fff;
+}
+
+.scorebox {
+    color: orange;
+    background: black;
+    width: 100px;
+    font-size: 48px;
+    padding: 26px 0px;
+    margin: 10px;
+    border-radius: 5px;
+      font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+button {
+    background: none;
+    border: 2px solid lightgray;
+    color: lightgray;
+    border-radius: 5px
+}
